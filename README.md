@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham
-- 👀 I’m interested in CODING and making responsive websitesl.
+- 👀 I’m interested in CODING and making responsive websites.
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

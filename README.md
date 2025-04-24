@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham
 - 👀 I’m interested in CODING and making responsive websites.
-- 🌱 I’m currently learning full stack development.
+- 🌱 I’m a full stack development.
 - 💞️ I’m looking to collaborate on new projects and helping others.
 - 📫 How to reach me -- https://www.linkedin.com/in/shubham-dubey-359646271/
 - 😄 Pronouns: he/him
